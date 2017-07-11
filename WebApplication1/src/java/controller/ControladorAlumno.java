@@ -10,5 +10,8 @@ package controller;
  * @author becario04
  */
 public class ControladorAlumno {
+    public int ver (){
+        return 0;
+    }
     
 }
