@@ -20,6 +20,9 @@ public class ControladorAlumno {
     public int list (){
         return 0;
     }
+    public String mirarennetbeans(){
+        return "asa";
+    }
     
     
 }
