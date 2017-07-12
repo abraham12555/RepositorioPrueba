@@ -14,5 +14,12 @@ public class ControladorAlumno {
         return 0;
     }
     //hajshakjsh
+    public int show (){
+        return 0;
+    }
+    public int list (){
+        return 0;
+    }
+    
     
 }
